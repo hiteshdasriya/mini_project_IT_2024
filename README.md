@@ -1,4 +1,9 @@
 # Healthcare Therapy Web Application
+## Live Demo
+
+You can access the live application by clicking on the link below:
+
+[Healthcare Therapy Web Application - Live Demo](https://healthcarewebapplication.netlify.app/)
 
 ## Overview
 
